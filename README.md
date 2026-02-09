@@ -1,7 +1,3 @@
-# Proyecto-Goodreads
-
----
-
 # Análisis de Datos de Libros en Goodreads 📚📊
 
 En este proyecto, seguimos un flujo completo de análisis de datos: en un mismo notebook realizamos tanto la EDA y limpieza, y visualizaciones utilizando Matplotlib y Seaborn, como el análisis estadístico. 
