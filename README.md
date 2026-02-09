@@ -4,7 +4,9 @@
 
 # Análisis de Datos de Libros en Goodreads 📚📊
 
-En este proyecto, realizamos un flujo completo de análisis de datos: desde la EDA y limpieza, a través de visualizaciones utilizando Matplotlib y Seaborn hasta el análisis estadístico. El paso final es la visualización complementaria - hasta la creación de un dashboard interactivo en Power BI. El objetivo es explorar los factores que puedan influir en la popularidad de los libros y entender la distribución de la literatura en la plataforma Goodreads
+En este proyecto, realizamos un flujo completo de análisis de datos: en un mismo Iupiter notebook realizamos tanto la EDA y limpieza, y visualizaciones utilizando Matplotlib y Seaborn como el análisis estadístico. 
+
+El paso final fue marcado por la visualización complementaria - la creación de un dashboard interactivo en Power BI. El objetivo del proyecto fue explorar los factores que puedan influir en la popularidad de los libros y entender la distribución y evaluación de la literatura en la plataforma Goodreads.
 
 🎯 **Nuestro objetivo:** Proporcionar una visión detallada de la biblioteca de Goodreads, analizando la relación entre el idioma en el que libro está escrito, la cantidad de valoraciones y el éxito de los títulos, apoyando así la comprensión de las tendencias actuales en el sector editorial.
 
