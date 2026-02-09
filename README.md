@@ -22,7 +22,7 @@ El paso final fue marcado por la visualización complementaria - la creación de
 
 🚀 **Exploración del Análisis:**
 
-El proyecto se divide en tres fases fundamentales:
+El proyecto se divide en dos fases fundamentales:
 
 1.**EDA, limpieza y visualización (Python):**:
 
@@ -40,12 +40,12 @@ El proyecto se divide en tres fases fundamentales:
 5. **Evolución de Reseñas:** ¿Cómo ha cambiado el número promedio de reseñas a lo largo de los años?
 6. **Correlación Votos/Reseñas:** ¿Existe una relación directa entre el número total de votos y las reseñas escritas?
 
-2. **Análisis Estadístico (Python):** 
+**Análisis Estadístico (Python):** 
 
 * Se realizó un **Test de Mann-Whitney U** para comparar las calificaciones entre libros en inglés y otros idiomas, para ver si el idioma influyía en la calificación. Hemos obtenido el resultado que nos ha indicado que no hay diferencias significativas en la calidad percibida, a pesar de la diferencia en volumen.
 
 
-3. **Visualización (Power BI):**
+2. **Visualización (Power BI):**
 
 El análisis visual se divide en seis secciones clave que permiten entender la estructura de la biblioteca de Goodreads:
 
