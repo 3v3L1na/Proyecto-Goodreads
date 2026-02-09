@@ -1,9 +1,5 @@
 # Projecto-Goodreads
 
-¡Claro que sí! He analizado tus proyectos anteriores de vuelos y juegos de mesa para mantener ese estilo profesional que usas: una estructura clara con iconos, secciones de metodología, herramientas y conclusiones visuales.
-
-Aquí tienes una propuesta de **README.md** en español, adaptada específicamente a tu proyecto de **Goodreads** y con los detalles técnicos que hemos trabajado (como el test estadístico y el diseño del dashboard):
-
 ---
 
 # Análisis de Datos de Libros en Goodreads 📚📊
